@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (format=lualatex 2015.5.24)  7 OCT 2016 00:17
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (format=lualatex 2015.5.24)  20 OCT 2016 06:18
  restricted \write18 enabled.
  file:line:error style messages enabled.
 **Lareau_HiC.tex
@@ -370,7 +370,7 @@ luatexbase-attr: luatexbase.attributes["luaotfload@cursbase"] = 6
 luatexbase-attr: luatexbase.attributes["luaotfload@curscurs"] = 7
 luatexbase-attr: luatexbase.attributes["luaotfload@cursdone"] = 8
 luatexbase-attr: luatexbase.attributes["luaotfload@state"] = 9
-luaotfload | main : fontloader loaded in 0.024 seconds
+luaotfload | main : fontloader loaded in 0.036 seconds
 luatexbase-mcb: inserting 'luaotfload.node_processor'
 at position 1 in 'pre_linebreak_filter'
 luatexbase-mcb: inserting 'luaotfload.node_processor'
@@ -1043,11 +1043,11 @@ LaTeX Info: Redefining \nameref on input line 53.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(50.58878pt, 513.11745pt, 50.58878pt)
-* v-part:(T,H,B)=(57.81621pt, 679.33757pt, 57.81621pt)
+* v-part:(T,H,B)=(57.81621pt, 701.01878pt, 36.135pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=513.11745pt
-* \textheight=679.33757pt
+* \textheight=701.01878pt
 * \oddsidemargin=-21.68121pt
 * \evensidemargin=-21.68121pt
 * \topmargin=-51.45378pt
@@ -1071,6 +1071,11 @@ LaTeX Info: Redefining \nameref on input line 53.
 (compiling luc: /usr/local/texlive/2015/texmf-var/luatex-cache/generic/fonts/otf
 /lmroman17-regular.luc)(load luc: /Users/lareauc/Library/texlive/2015/texmf-var/
 luatex-cache/generic/fonts/otf/lmroman17-regular.luc)
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
@@ -1109,15 +1114,15 @@ Here is how much of LuaTeX's memory you used:
  399 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 2 kern, 6 attribute, 52 glue_spec, 6 attrib
 ute_list, 1 write nodes
-   avail lists: 2:7174,3:37,4:581,5:141,6:2325,7:236,8:2,9:55,10:250
+   avail lists: 2:9701,3:43,4:747,5:195,6:3154,7:316,8:2,9:66,10:343
  26376 multiletter control sequences out of 65536+600000
  29 fonts using 1851639 bytes
- 55i,5n,62p,2413b,325s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 55i,5n,62p,3291b,325s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2015/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.o
 tf></usr/local/texlive/2015/texmf-dist/fonts/opentype/public/lm/lmroman12-regula
 r.otf></usr/local/texlive/2015/texmf-dist/fonts/opentype/public/lm/lmroman17-reg
 ular.otf>
-Output written on Lareau_HiC.pdf (1 page, 17307 bytes).
+Output written on Lareau_HiC.pdf (1 page, 18039 bytes).
 
 PDF statistics: 34 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream
