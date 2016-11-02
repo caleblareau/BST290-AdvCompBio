@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (format=lualatex 2015.5.24)  25 OCT 2016 22:13
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (format=lualatex 2015.5.24)  27 OCT 2016 00:11
  restricted \write18 enabled.
  file:line:error style messages enabled.
 **Lareau_GBM.tex
@@ -370,7 +370,7 @@ luatexbase-attr: luatexbase.attributes["luaotfload@cursbase"] = 6
 luatexbase-attr: luatexbase.attributes["luaotfload@curscurs"] = 7
 luatexbase-attr: luatexbase.attributes["luaotfload@cursdone"] = 8
 luatexbase-attr: luatexbase.attributes["luaotfload@state"] = 9
-luaotfload | main : fontloader loaded in 0.032 seconds
+luaotfload | main : fontloader loaded in 0.029 seconds
 luatexbase-mcb: inserting 'luaotfload.node_processor'
 at position 1 in 'pre_linebreak_filter'
 luatexbase-mcb: inserting 'luaotfload.node_processor'
@@ -1085,18 +1085,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
-
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
 
-(./Lareau_GBM.aux)
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
+ (./Lareau_GBM.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 73.
 Package rerunfilecheck Info: File `Lareau_GBM.out' has not changed.
@@ -1109,23 +1105,23 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
 )
 
 Here is how much of LuaTeX's memory you used:
- 23250 strings out of 494693
+ 23251 strings out of 494693
  100000,552014 words of node,token memory allocated
- 398 words of node memory still in use:
+ 399 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 2 kern, 6 attribute, 52 glue_spec, 6 attrib
 ute_list, 1 write nodes
-   avail lists: 2:7686,3:34,4:603,5:144,6:2493,7:222,8:2,9:58,10:277
+   avail lists: 2:9885,3:35,4:740,5:181,6:3215,7:271,8:2,9:66,10:350
  26376 multiletter control sequences out of 65536+600000
  29 fonts using 1851639 bytes
- 55i,5n,62p,2578b,325s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 55i,5n,62p,3338b,397s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2015/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.o
 tf></usr/local/texlive/2015/texmf-dist/fonts/opentype/public/lm/lmroman12-regula
 r.otf></usr/local/texlive/2015/texmf-dist/fonts/opentype/public/lm/lmroman17-reg
 ular.otf>
-Output written on Lareau_GBM.pdf (1 page, 16720 bytes).
+Output written on Lareau_GBM.pdf (2 pages, 17916 bytes).
 
-PDF statistics: 34 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 131072)
+PDF statistics: 38 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
